@@ -5,11 +5,10 @@ Lieber App-User,
 
 ein paar Informationen über das Medbutler-Projekt - vorläufig auf dieser Github-Seite.
 
-Medbutler befindet sich in der Entwicklung - und zwar noch ziemlich am Anfang. Im Moment kannst Du dem Chatbot ein paar Fragen zum Thema Ernährung bei Diabetes stellen - mehr nicht. Die Antworten werden nicht immer passend sein. Wie gesagt, Medbutler befindet sich in der Entwicklung.
+Im Moment kannst Du dem Chatbot ein paar Fragen zum Thema Ernährung bei Diabetes stellen. Zum Beispiel "wie geht gesunde Ernährung?". Oder "was sind Proteine?".
 
-## Deswegen auch der Hinweis:
+## Medbutler ist kein Arzt
 
-Diese App ist eine Demonstration. Dementsprechend sind sämtliche Inhalte nur als Veranschaulichung zu begreifen. Sie sind weder geprüft noch korrekt.
-Die Inhalte sind nicht dafür geeignet, in welcher Form auch immer Aussagen über Diabetes Typ 2 wiederzugeben.
+Kläre grundsätzlich alle Themen rund um Diabetes mit Deinem Arzt, Apotheker oder Diabetesberater. Weil ... Medbutler weiß zwar so einiges, ist aber kein Fachmann. Diabetes sollte immer von Fachleuten betreut werden.
 
-Trotzdem viel Spaß!
+Viel Spaß mit Medbutler
